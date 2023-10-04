@@ -1,0 +1,20 @@
+
+
+@media (min-width: 1500px) { 
+    .foto{
+        width: 30%;
+    }
+    .letra{
+        font-size: 500%;
+    }
+    .container-fluid {
+        font-size: 300%;
+
+   
+    }
+    .navbar-brand{
+        font-size: 130%;
+
+    }
+ }
+ 
